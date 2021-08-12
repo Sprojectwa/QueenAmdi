@@ -26,7 +26,7 @@ $ `bash <(curl -L https://t.ly/j0CU)`
 `You need 2 mobile phones to build the Drop ml bot!
 You will run the bot from the second device.
 You will only generate a QR code with the first device.
-From the first device you need to install Queen Amdi Bot.
+From the first device you need to install DROP ML Bot.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sprojectwa/QueenAmdi)
 
