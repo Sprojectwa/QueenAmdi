@@ -2,7 +2,7 @@
   [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/Sprojectwa/QueenAmdi/edit/launch/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/Sprojectwa/QueenAmdi/edit/launch/README-SI.md)
 <div align="center">
-  <img src="https://weraveyou.com/wp-content/uploads/2021/02/awwryarticle.jpg" width="300" height="300">
+  ![logo](https://weraveyou.com/wp-content/uploads/2021/02/awwryarticle.jpg)
   <h1>🕷🕸   S-MAX PUBLIC BOT 🕸🕷</h1>
 </div>
 <p align="center">
