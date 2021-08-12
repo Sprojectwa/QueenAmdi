@@ -1,14 +1,14 @@
 {
-    "name": "Queen Amdi 2.9v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
+    "name": "DROP ml _ 1.1v",
+    "description": "S-MAX is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/r3wmpwr/LOGO.jpg",
-    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "Queen Amdi"],
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "DROP ML"],
     "repository": "",
-    "website":   "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
-    "success_url": "https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD",
+    "website":   "https://chat.whatsapp.com/BjchfF08PxO1nx7wT6go5k",
+    "success_url": "https://chat.whatsapp.com/BjchfF08PxO1nx7wT6go5k",
     "stack": "container",
     "env": {
-        "AMDI_SESSION": {
+        "DROP_SESSION": {
             "description": "Paste your QR session that you got from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code.",
             "required": true
         },
