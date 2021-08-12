@@ -1,7 +1,7 @@
 {
     "name": "DROP ml _ 1.1v",
     "description": "S-MAX is a chat bot for WhatsApp. Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/r3wmpwr/LOGO.jpg",
+    "logo": "https://weraveyou.com/wp-content/uploads/2021/02/awwryarticle.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "DROP ML"],
     "repository": "",
     "website":   "https://chat.whatsapp.com/BjchfF08PxO1nx7wT6go5k",
@@ -19,7 +19,7 @@
         "LANGUAGE": {
             "description": "Enter your language. To enable Sinhala, type SI. or to enable English, type EN.",
             "required": true,
-            "value": "EN"
+            "value": "SI"
         },
         "HANDLERS": {
             "description": "Enter bot prefix to use commands.",
@@ -77,7 +77,7 @@
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },       
         "DEBUG": {
             "description": "If you do not know this. Give it up.",
@@ -92,17 +92,17 @@
          "ALIVE_LOGO": {
             "description": "Alive message Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://i.ibb.co/r3wmpwr/LOGO.jpg"
+            "value": "https://weraveyou.com/wp-content/uploads/2021/02/awwryarticle.jpg"
         },
         "WELCOME_LOGO": {
             "description": "To change the welcome message video, enter your video link below.(Upload the video you want to https://www.mailboxdrive.com/upload/ and paste the link here.)",
             "required": true,
-            "value": "https://tinyurl.com/queenamdi-welcomev2"
+            "value": "https://weraveyou.com/wp-content/uploads/2021/02/awwryarticle.jpg"
         },
         "BYE_LOGO": {
             "description": "Below is your video link to change Goodbye message video.(Upload the video you want to https://www.mailboxdrive.com/upload/ and post the link here.)",
             "required": true,
-            "value": "https://tinyurl.com/queenamdi-goodbye"
+            "value": "https://weraveyou.com/wp-content/uploads/2021/02/awwryarticle.jpg"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
