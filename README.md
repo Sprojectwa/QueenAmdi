@@ -82,7 +82,7 @@ Here is the S-AX bot features.
 
   </a>
 
-Click here to see the latest updates (2.9v update). 
+Click here to see the latest updates (1.1v update). 
 <a href="https://gist.github.com/Sprojectwa/890b6b31fcb8d376d6a68afcb7359324">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
@@ -91,6 +91,8 @@ Click here to see the latest updates (2.9v update).
 
 ## 📢 Guide
 > [Public Bot Group](https://chat.whatsapp.com/BjchfF08PxO1nx7wT6go5k) (New)
+
+
 
 ## 🔎 What is DROP ml Bot?
 **DROP  ml Bot,** is a WhatsApp userbot.
